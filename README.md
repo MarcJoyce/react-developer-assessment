@@ -1,5 +1,40 @@
 # NetConstruct React Developer Assessment
 
+**NetConstruct React Developer Assessment**
+_by Marc Joyce_
+
+**Requirements**
+
+- Retrieve the data from the mock API.
+- Output the data in a list, including properties from the data that are appropriate for a list view.
+- Implement a category filter - this can be single or multi-select.
+- Implement pagination - this can be traditional numbered pages or "load more". (I completed this requirement by displaying a subset of the API data as it was a limited dataset)
+- Use semantic markup where possible.
+- Create a responsive layout with HTML and CSS.
+- Use client-side routing to create a "detail" page.
+- Persist filter state in the query string.
+-  Use a CSS preprocessor or CSS-in-JS rather than plain CSS.
+
+**Non-filtered list**
+![Screenshot (48)](https://user-images.githubusercontent.com/60116589/125422467-b0a5ff29-5192-40c3-b994-f76dd7face0d.png)
+
+**Filtered List**
+![Screenshot (50)](https://user-images.githubusercontent.com/60116589/125421472-91e6f325-e3f4-463f-a181-e6947c545ed0.png)
+
+**Filter by search**
+![Screenshot (51)](https://user-images.githubusercontent.com/60116589/125421615-0b593bf0-bad5-40cd-a1f5-89d9a23c25f7.png)
+
+**Detail Page & URL client side routing via React Router**
+![Screenshot (52)](https://user-images.githubusercontent.com/60116589/125421780-704f8065-940a-4ae1-b116-5cf02d3e85eb.png)
+
+**Responsive Design**
+![Screenshot (53)](https://user-images.githubusercontent.com/60116589/125421972-d5dbb270-25f7-4b3c-a1d1-9daba5c6c660.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/60116589/125422042-3daf8a48-142e-48cf-9c85-9b8a83353a24.png)
+
+
+
+
+
 ## Overview
 
 The purpose of this assessment is to demonstrate:
